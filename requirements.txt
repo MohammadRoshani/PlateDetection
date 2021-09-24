@@ -36,7 +36,6 @@ lmdb
 MarkupSafe
 matplotlib
 mistune
-mpl_toolkits
 nbconvert
 nbformat
 notebook
